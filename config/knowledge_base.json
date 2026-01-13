@@ -1,0 +1,28 @@
+{
+  "documents": [
+    {
+      "title": "AutoStream Product Overview",
+      "content": "AutoStream is a SaaS product that provides automated video editing tools for content creators. Our platform uses AI to help YouTubers, Instagram creators, TikTok influencers, and other content creators edit their videos faster and more professionally. AutoStream automates repetitive editing tasks, adds AI-generated captions, applies professional transitions, and optimizes videos for different social media platforms."
+    },
+    {
+      "title": "AutoStream Pricing Plans",
+      "content": "AutoStream offers two pricing plans:\n\nBasic Plan - $29 per month\n- 10 videos per month\n- 720p resolution output\n- Basic AI editing features\n- Standard transitions and effects\n- Email support\n\nPro Plan - $79 per month\n- Unlimited videos per month\n- 4K resolution output\n- Advanced AI editing features\n- AI-powered automatic captions\n- Premium transitions and effects\n- Priority rendering\n- 24/7 support available\n\nBoth plans include cloud storage for your projects and access to our template library."
+    },
+    {
+      "title": "AutoStream Features",
+      "content": "AutoStream provides powerful features for content creators:\n\nAI-Powered Editing: Automatically cuts silent parts, adds b-roll suggestions, and optimizes pacing.\nSmart Captions: AI generates accurate captions and subtitles (Pro plan only).\nMulti-Platform Export: Optimize videos for YouTube, Instagram, TikTok, Facebook with one click.\nTemplate Library: Access hundreds of professional video templates.\nBrand Kit: Save your colors, fonts, and logos for consistent branding.\nCollaboration: Share projects with team members and clients.\nCloud Rendering: Fast rendering in the cloud, no need for powerful local hardware."
+    },
+    {
+      "title": "Company Policies",
+      "content": "AutoStream Company Policies:\n\nRefund Policy: No refunds are provided after 7 days of purchase. Within the first 7 days, you can request a full refund if you're not satisfied with the service.\n\nSupport Availability:\n- Basic Plan users receive email support during business hours (9 AM - 6 PM EST, Monday-Friday)\n- Pro Plan users get 24/7 support via email, chat, and priority phone support\n\nFree Trial: We offer a 14-day free trial with access to Basic Plan features. No credit card required.\n\nCancellation: You can cancel your subscription anytime. Access continues until the end of your billing period.\n\nData Privacy: Your video content is encrypted and never shared. We are GDPR compliant."
+    },
+    {
+      "title": "Getting Started with AutoStream",
+      "content": "Getting started with AutoStream is simple:\n\n1. Sign up for a free 14-day trial at autostream.io\n2. Upload your first video or choose a template\n3. Let our AI analyze and suggest edits\n4. Customize with our intuitive editor\n5. Export in your preferred format and resolution\n\nPerfect for YouTube creators, Instagram influencers, TikTok content creators, podcast editors, marketing teams, and anyone who creates video content regularly.\n\nMost users create their first professional video in under 30 minutes."
+    },
+    {
+      "title": "AutoStream Use Cases",
+      "content": "AutoStream is perfect for various content creator needs:\n\nYouTube Creators: Edit vlogs, tutorials, reviews with AI-powered cuts and transitions.\nInstagram Creators: Create Reels and Stories with trending effects and captions.\nTikTok Influencers: Quick edits optimized for vertical video and trending sounds.\nPodcast Editors: Convert audio podcasts to video format with waveforms and captions.\nBusiness Content: Create product demos, testimonials, and marketing videos.\nEducation: Make engaging educational content and online courses.\n\nOur AI learns your editing style and gets better over time, saving you hours of manual work."
+    }
+  ]
+}
